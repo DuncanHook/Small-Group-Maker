@@ -1,265 +1,236 @@
 Smallgroups by Week
 WEEK 1
-GROUP 1: (HOST) = Mary | Tyler | Annie | Mark,Molly | Fidelma | Henry | Joseph,Grace | Christopher 
-GROUP 2: (HOST) = Jennie | Matt,Andie | Noah | Emma | Jacob,Sophia | Addison 
-GROUP 3: (HOST) = William | Isabella | Elijah | Mia | Ava | Michael | Benjamin,Logan | Victoria 
-GROUP 4: (HOST) = Elizabeth | Amelia | Daniel | Chloe,Harper | Lucas | Jackson | John 
+GROUP 1: (HOST) = Mary | Tyler | Annie | Mark,Molly | Fidelma | Henry | Jennie | Daniel | Jackson | Victoria 
+GROUP 2: (HOST) = Matt,Andie | Noah | Emma | Jacob,Sophia | William | Isabella | Chloe,Harper | Joseph,Grace | John 
+GROUP 3: (HOST) = Elijah | Mia | Ava | Michael | Benjamin,Logan | Elizabeth | Amelia | Lucas | Addison | Christopher 
 
 WEEK 2
-GROUP 1: (HOST) = Tyler | Annie | Mark,Molly | Fidelma | Henry | Matt,Andie | Christopher | William 
-GROUP 2: (HOST) = Noah | Emma | Jacob,Sophia | Isabella | Elijah | Mia | Jennie 
-GROUP 3: (HOST) = Ava | Michael | Benjamin,Logan | Amelia | Daniel | Chloe,Harper | Elizabeth 
-GROUP 4: (HOST) = Lucas | Jackson | Joseph,Grace | Addison | Victoria | John | Mary 
+GROUP 1: (HOST) = Tyler | Annie | Mark,Molly | Fidelma | Henry | Jennie | Noah | Jackson | Victoria | Matt,Andie 
+GROUP 2: (HOST) = Emma | Jacob,Sophia | William | Isabella | Mia | Ava | Michael | Joseph,Grace | John | Mary 
+GROUP 3: (HOST) = Benjamin,Logan | Elizabeth | Amelia | Daniel | Chloe,Harper | Lucas | Addison | Christopher | Elijah 
 
 WEEK 3
-GROUP 1: (HOST) = Annie | Mark,Molly | Fidelma | Henry | Matt,Andie | Noah | Mary 
-GROUP 2: (HOST) = Emma | Jacob,Sophia | Isabella | Elijah | Mia | Michael | Ava | Tyler 
-GROUP 3: (HOST) = Benjamin,Logan | Amelia | Daniel | Chloe,Harper | Jackson | Elizabeth | William 
-GROUP 4: (HOST) = Joseph,Grace | Addison | Victoria | John | Christopher | Jennie | Lucas 
+GROUP 1: (HOST) = Annie | Mark,Molly | Fidelma | Henry | Jennie | Noah | Jacob,Sophia | John | Benjamin,Logan | Emma 
+GROUP 2: (HOST) = William | Isabella | Mia | Ava | Michael | Elizabeth | Amelia | Daniel | Christopher | Mary | Elijah 
+GROUP 3: (HOST) = Chloe,Harper | Lucas | Jackson | Joseph,Grace | Addison | Victoria | Matt,Andie | Tyler 
 
 WEEK 4
-GROUP 1: (HOST) = Mark,Molly | Fidelma | Henry | Matt,Andie | Jacob,Sophia | Mary 
-GROUP 2: (HOST) = Isabella | Elijah | Mia | Michael | Amelia | Daniel | Chloe,Harper | Tyler 
-GROUP 3: (HOST) = Jackson | Addison | Victoria | John | Christopher | Jennie | Annie | Emma 
-GROUP 4: (HOST) = Noah | Ava | Benjamin,Logan | Elizabeth | Lucas | Joseph,Grace | William 
+GROUP 1: (HOST) = Mark,Molly | Fidelma | Henry | Jennie | Noah | Jacob,Sophia | Matt,Andie | Tyler | Elijah 
+GROUP 2: (HOST) = Isabella | Mia | Ava | Michael | Elizabeth | Amelia | Daniel | Lucas | Benjamin,Logan | Annie | William 
+GROUP 3: (HOST) = Jackson | Joseph,Grace | Addison | Victoria | John | Christopher | Chloe,Harper | Mary | Emma 
 
 WEEK 5
-GROUP 1: (HOST) = Fidelma | Henry | Matt,Andie | Jacob,Sophia | Elijah | Benjamin,Logan | Jackson 
-GROUP 2: (HOST) = Mia | Michael | Amelia | Daniel | Chloe,Harper | Addison | Elizabeth | Noah 
-GROUP 3: (HOST) = Victoria | John | Christopher | Mark,Molly | Jennie | Annie | William 
-GROUP 4: (HOST) = Ava | Lucas | Joseph,Grace | Mary | Tyler | Emma | Isabella 
+GROUP 1: (HOST) = Fidelma | Henry | Jennie | Noah | Jacob,Sophia | Mia | Ava | Benjamin,Logan | Tyler | Elijah 
+GROUP 2: (HOST) = Michael | Elizabeth | Amelia | Daniel | Lucas | Joseph,Grace | Addison | Jackson | Annie | William 
+GROUP 3: (HOST) = Victoria | John | Christopher | Chloe,Harper | Mark,Molly | Matt,Andie | Mary | Emma | Isabella 
 
 WEEK 6
-GROUP 1: (HOST) = Henry | Matt,Andie | Jacob,Sophia | Elijah | Michael | Emma | Jackson 
-GROUP 2: (HOST) = Amelia | Daniel | Chloe,Harper | Addison | John | Christopher | William | Noah 
-GROUP 3: (HOST) = Mark,Molly | Jennie | Annie | Benjamin,Logan | Elizabeth | Isabella | Ava 
-GROUP 4: (HOST) = Fidelma | Lucas | Joseph,Grace | Victoria | Mary | Tyler | Mia 
+GROUP 1: (HOST) = Henry | Jennie | Noah | Jacob,Sophia | Mia | Ava | Elizabeth | Matt,Andie | Tyler | Elijah | Isabella 
+GROUP 2: (HOST) = Amelia | Daniel | Lucas | Joseph,Grace | Addison | John | Christopher | Jackson | Fidelma | Michael 
+GROUP 3: (HOST) = Chloe,Harper | Mark,Molly | Benjamin,Logan | Mary | Annie | Victoria | Emma | William 
 
 WEEK 7
-GROUP 1: (HOST) = Matt,Andie | Jacob,Sophia | Elijah | Michael | Daniel | William | Noah 
-GROUP 2: (HOST) = Chloe,Harper | Addison | John | Christopher | Jennie | Annie | Jackson | Ava 
-GROUP 3: (HOST) = Henry | Benjamin,Logan | Elizabeth | Lucas | Joseph,Grace | Mark,Molly 
-GROUP 4: (HOST) = Victoria | Mary | Tyler | Emma | Isabella | Mia | Amelia | Fidelma 
+GROUP 1: (HOST) = Jennie | Noah | Jacob,Sophia | Mia | Ava | Elizabeth | Daniel | Annie | Elijah | Henry | Chloe,Harper 
+GROUP 2: (HOST) = Lucas | Joseph,Grace | Addison | John | Christopher | Mark,Molly | Fidelma | Michael | William 
+GROUP 3: (HOST) = Matt,Andie | Benjamin,Logan | Jackson | Victoria | Mary | Tyler | Emma | Amelia | Isabella 
 
 WEEK 8
-GROUP 1: (HOST) = Jacob,Sophia | Elijah | Michael | Daniel | Addison | John | Jackson | Ava 
-GROUP 2: (HOST) = Christopher | Jennie | Annie | Matt,Andie | Benjamin,Logan | Henry | Victoria 
-GROUP 3: (HOST) = Elizabeth | Joseph,Grace | Mary | Tyler | Emma | William | Fidelma 
-GROUP 4: (HOST) = Lucas | Isabella | Mia | Amelia | Chloe,Harper | Mark,Molly | Noah 
+GROUP 1: (HOST) = Noah | Jacob,Sophia | Mia | Ava | Elizabeth | Daniel | Joseph,Grace | Victoria | Jennie | Chloe,Harper 
+GROUP 2: (HOST) = Addison | John | Christopher | Mark,Molly | Benjamin,Logan | Lucas | Mary | William | Matt,Andie 
+GROUP 3: (HOST) = Jackson | Tyler | Annie | Fidelma | Elijah | Michael | Amelia | Henry | Emma | Isabella 
 
 WEEK 9
-GROUP 1: (HOST) = Elijah | Michael | Daniel | Addison | John | Jennie | Annie | Mark,Molly | Lucas 
-GROUP 2: (HOST) = Matt,Andie | Benjamin,Logan | Joseph,Grace | Christopher | Henry | Victoria 
-GROUP 3: (HOST) = Mary | Emma | Jacob,Sophia | William | Isabella | Mia | Fidelma 
-GROUP 4: (HOST) = Tyler | Amelia | Chloe,Harper | Jackson | Noah | Ava | Elizabeth 
+GROUP 1: (HOST) = Jacob,Sophia | Mia | Ava | Elizabeth | Daniel | Joseph,Grace | Mary | Jennie | Chloe,Harper 
+GROUP 2: (HOST) = John | Christopher | Mark,Molly | Benjamin,Logan | Lucas | Addison | Emma | William | Matt,Andie 
+GROUP 3: (HOST) = Victoria | Tyler | Annie | Fidelma | Noah | Elijah | Michael | Amelia | Henry | Isabella | Jackson 
 
 WEEK 10
-GROUP 1: (HOST) = Michael | Daniel | Addison | John | Jennie | Annie | Benjamin,Logan | Matt,Andie | Elizabeth 
-GROUP 2: (HOST) = Joseph,Grace | Emma | Jacob,Sophia | William | Isabella | Mary 
-GROUP 3: (HOST) = Christopher | Mia | Amelia | Chloe,Harper | Jackson | Elijah | Fidelma 
-GROUP 4: (HOST) = Mark,Molly | Noah | Lucas | Tyler | Victoria | Henry | Ava 
+GROUP 1: (HOST) = Mia | Ava | Elizabeth | Daniel | Joseph,Grace | Christopher | Mark,Molly | Annie | Jennie | Jackson 
+GROUP 2: (HOST) = Jacob,Sophia | Benjamin,Logan | Lucas | Addison | John | Tyler | Fidelma | Chloe,Harper | Victoria 
+GROUP 3: (HOST) = Mary | Noah | Emma | Elijah | Michael | Amelia | William | Isabella | Henry | Matt,Andie 
 
 WEEK 11
-GROUP 1: (HOST) = Daniel | Addison | John | Jennie | Annie | Benjamin,Logan | Michael | Mark,Molly 
-GROUP 2: (HOST) = Emma | William | Amelia | Chloe,Harper | Jackson | Henry | Lucas 
-GROUP 3: (HOST) = Jacob,Sophia | Isabella | Mia | Matt,Andie | Joseph,Grace | Tyler 
-GROUP 4: (HOST) = Elijah | Mary | Fidelma | Noah | Ava | Elizabeth | Christopher | Victoria 
+GROUP 1: (HOST) = Ava | Elizabeth | Daniel | Joseph,Grace | Christopher | Mark,Molly | Addison | Matt,Andie | Mary 
+GROUP 2: (HOST) = Benjamin,Logan | John | Tyler | Annie | Fidelma | Noah | Emma | Michael | Jacob,Sophia | Victoria 
+GROUP 3: (HOST) = Lucas | Elijah | Mia | Amelia | Henry | Jennie | Isabella | Chloe,Harper | William | Jackson 
 
 WEEK 12
-GROUP 1: (HOST) = Addison | John | Jennie | Annie | Benjamin,Logan | William | Daniel | Elijah 
-GROUP 2: (HOST) = Isabella | Jackson | Henry | Matt,Andie | Joseph,Grace | Chloe,Harper 
-GROUP 3: (HOST) = Mia | Mary | Fidelma | Jacob,Sophia | Ava | Lucas | Noah 
-GROUP 4: (HOST) = Amelia | Michael | Elizabeth | Tyler | Emma | Victoria | Mark,Molly | Christopher 
+GROUP 1: (HOST) = Elizabeth | Daniel | Joseph,Grace | Christopher | Mark,Molly | Ava | William | Lucas | Benjamin,Logan 
+GROUP 2: (HOST) = Addison | Tyler | Annie | Fidelma | Noah | Emma | Elijah | Mia | Matt,Andie | Jackson | Victoria 
+GROUP 3: (HOST) = John | Michael | Amelia | Henry | Jennie | Isabella | Chloe,Harper | Jacob,Sophia | Mary 
 
 WEEK 13
-GROUP 1: (HOST) = John | Jennie | Annie | Benjamin,Logan | William | Daniel | Emma | Elijah 
-GROUP 2: (HOST) = Chloe,Harper | Michael | Henry | Matt,Andie | Isabella | Amelia 
-GROUP 3: (HOST) = Jackson | Joseph,Grace | Mary | Fidelma | Noah | Jacob,Sophia | Victoria 
-GROUP 4: (HOST) = Addison | Mia | Ava | Elizabeth | Lucas | Christopher | Tyler | Mark,Molly 
+GROUP 1: (HOST) = Daniel | Joseph,Grace | Christopher | Mark,Molly | Ava | Elizabeth | Fidelma | Jennie | Benjamin,Logan 
+GROUP 2: (HOST) = Tyler | Emma | Elijah | Mia | Michael | Amelia | William | Isabella | Noah | Jacob,Sophia | Addison 
+GROUP 3: (HOST) = Annie | Chloe,Harper | Matt,Andie | Lucas | Jackson | Mary | Henry | John | Victoria 
 
 WEEK 14
-GROUP 1: (HOST) = Jennie | Annie | Benjamin,Logan | William | Daniel | John | Jacob,Sophia | Elijah 
-GROUP 2: (HOST) = Michael | Henry | Isabella | Joseph,Grace | Mary | Fidelma | Lucas 
-GROUP 3: (HOST) = Matt,Andie | Mia | Ava | Elizabeth | Chloe,Harper | Emma 
-GROUP 4: (HOST) = Noah | Jackson | Christopher | Tyler | Amelia | Victoria | Addison | Mark,Molly 
+GROUP 1: (HOST) = Joseph,Grace | Christopher | Mark,Molly | Ava | Elizabeth | Daniel | Mia | John | Addison 
+GROUP 2: (HOST) = Fidelma | Emma | Michael | Amelia | William | Isabella | Chloe,Harper | Jennie | Mary | Victoria 
+GROUP 3: (HOST) = Noah | Elijah | Henry | Matt,Andie | Annie | Lucas | Jackson | Jacob,Sophia | Benjamin,Logan | Tyler 
 
 WEEK 15
-GROUP 1: (HOST) = Annie | Benjamin,Logan | William | Daniel | John | Jennie | Addison 
-GROUP 2: (HOST) = Henry | Isabella | Mary | Fidelma | Mia | Ava | Chloe,Harper | Elijah 
-GROUP 3: (HOST) = Joseph,Grace | Elizabeth | Jackson | Tyler | Amelia | Michael | Matt,Andie 
-GROUP 4: (HOST) = Jacob,Sophia | Lucas | Christopher | Emma | Victoria | Mark,Molly | Noah 
+GROUP 1: (HOST) = Christopher | Mark,Molly | Ava | Elizabeth | Daniel | Joseph,Grace | Annie | Fidelma | Addison 
+GROUP 2: (HOST) = Emma | Elijah | Amelia | Henry | Jennie | Chloe,Harper | Matt,Andie | Jackson | Noah | Victoria 
+GROUP 3: (HOST) = Mia | Michael | William | Isabella | Jacob,Sophia | Lucas | John | Mary | Benjamin,Logan | Tyler 
 
 WEEK 16
-GROUP 1: (HOST) = Benjamin,Logan | John | Jennie | Isabella | Mary | Annie | Amelia 
-GROUP 2: (HOST) = William | Daniel | Fidelma | Elizabeth | Chloe,Harper | Lucas | Michael 
-GROUP 3: (HOST) = Mia | Jackson | Christopher | Tyler | Emma | Victoria | Mark,Molly | Joseph,Grace 
-GROUP 4: (HOST) = Ava | Addison | Elijah | Matt,Andie | Henry | Jacob,Sophia | Noah 
+GROUP 1: (HOST) = Mark,Molly | Ava | Elizabeth | Daniel | Joseph,Grace | Christopher | Amelia | Jackson | Tyler 
+GROUP 2: (HOST) = Elijah | Henry | Jennie | William | Isabella | Chloe,Harper | Matt,Andie | Annie | Addison | Emma 
+GROUP 3: (HOST) = Michael | Jacob,Sophia | John | Mary | Fidelma | Noah | Benjamin,Logan | Lucas | Victoria | Mia 
 
 WEEK 17
-GROUP 1: (HOST) = Daniel | Isabella | Mary | Fidelma | William | Elizabeth | Chloe,Harper | Annie | Mia 
-GROUP 2: (HOST) = John | Lucas | Jackson | Christopher | Tyler | Amelia | Victoria | Jacob,Sophia 
-GROUP 3: (HOST) = Jennie | Michael | Mark,Molly | Henry | Joseph,Grace | Ava 
-GROUP 4: (HOST) = Benjamin,Logan | Emma | Addison | Elijah | Matt,Andie | Noah 
+GROUP 1: (HOST) = Ava | Amelia | Henry | Jennie | William | Isabella | Chloe,Harper | Joseph,Grace | Fidelma | Emma 
+GROUP 2: (HOST) = Elizabeth | Matt,Andie | Annie | Jacob,Sophia | Jackson | John | Christopher | Benjamin,Logan | Mia 
+GROUP 3: (HOST) = Daniel | Lucas | Mary | Noah | Elijah | Michael | Addison | Victoria | Mark,Molly | Tyler 
 
 WEEK 18
-GROUP 1: (HOST) = Isabella | Mary | Annie | Fidelma | William | Elizabeth | Lucas | Jennie | Mia 
-GROUP 2: (HOST) = Chloe,Harper | Tyler | Emma | Victoria | Daniel | Mark,Molly | Henry 
-GROUP 3: (HOST) = Jackson | Amelia | Michael | Elijah | Matt,Andie | Benjamin,Logan | Ava 
-GROUP 4: (HOST) = Christopher | Addison | John | Joseph,Grace | Jacob,Sophia | Noah 
+GROUP 1: (HOST) = Joseph,Grace | Amelia | Henry | Jennie | William | Isabella | Chloe,Harper | Annie | Daniel | Emma 
+GROUP 2: (HOST) = Christopher | Matt,Andie | Jacob,Sophia | Lucas | Jackson | John | Mark,Molly | Benjamin,Logan | Mia 
+GROUP 3: (HOST) = Elizabeth | Mary | Fidelma | Noah | Elijah | Michael | Addison | Victoria | Ava | Tyler 
 
 WEEK 19
-GROUP 1: (HOST) = Mary | Elizabeth | Lucas | Amelia | Victoria | Michael | Daniel | Christopher | Mia 
-GROUP 2: (HOST) = Annie | Tyler | Emma | Elijah | Chloe,Harper | Joseph,Grace | Jacob,Sophia 
-GROUP 3: (HOST) = Fidelma | William | Addison | John | Mark,Molly | Jennie | Ava 
-GROUP 4: (HOST) = Matt,Andie | Isabella | Jackson | Benjamin,Logan | Henry | Noah 
+GROUP 1: (HOST) = Amelia | Henry | Jennie | William | Isabella | Chloe,Harper | Matt,Andie | Jacob,Sophia | Noah | Emma 
+GROUP 2: (HOST) = Annie | Christopher | Ava | Daniel | Joseph,Grace | Elijah | Michael | Jackson | Victoria | Mia 
+GROUP 3: (HOST) = Mark,Molly | Lucas | John | Mary | Benjamin,Logan | Addison | Fidelma | Tyler | Elizabeth 
 
 WEEK 20
-GROUP 1: (HOST) = William | Tyler | Emma | Amelia | Addison | John | Mark,Molly | Isabella | Mia 
-GROUP 2: (HOST) = Elizabeth | Victoria | Michael | Elijah | Jennie | Benjamin,Logan | Ava 
-GROUP 3: (HOST) = Lucas | Daniel | Henry | Christopher | Annie | Fidelma | Matt,Andie | Jackson 
-GROUP 4: (HOST) = Chloe,Harper | Joseph,Grace | Mary | Jacob,Sophia | Noah 
+GROUP 1: (HOST) = Henry | William | Chloe,Harper | Christopher | Daniel | Lucas | Jackson | Ava | Addison | Mia 
+GROUP 2: (HOST) = Jennie | Isabella | Matt,Andie | Joseph,Grace | John | Mary | Fidelma | Victoria | Annie 
+GROUP 3: (HOST) = Jacob,Sophia | Noah | Elijah | Michael | Emma | Amelia | Mark,Molly | Benjamin,Logan | Tyler | Elizabeth 
 
 WEEK 21
-GROUP 1: (HOST) = Tyler | Emma | Victoria | Michael | Daniel | Addison | John | Jacob,Sophia 
-GROUP 2: (HOST) = Amelia | Elijah | Jennie | Benjamin,Logan | Henry | Joseph,Grace | Isabella 
-GROUP 3: (HOST) = Mark,Molly | Christopher | William | Jackson | Mia | Chloe,Harper | Elizabeth 
-GROUP 4: (HOST) = Mary | Matt,Andie | Ava | Noah | Annie | Fidelma | Lucas 
+GROUP 1: (HOST) = William | Chloe,Harper | Matt,Andie | Lucas | Jackson | Joseph,Grace | Daniel | Amelia | Annie 
+GROUP 2: (HOST) = Isabella | Christopher | John | Mary | Fidelma | Henry | Jennie | Noah | Addison | Mark,Molly | Elizabeth 
+GROUP 3: (HOST) = Ava | Elijah | Michael | Benjamin,Logan | Victoria | Tyler | Mia | Emma | Jacob,Sophia 
 
 WEEK 22
-GROUP 1: (HOST) = Emma | Victoria | Daniel | Addison | John | Jennie | Benjamin,Logan | Isabella | Mary 
-GROUP 2: (HOST) = Michael | Elijah | Christopher | Jacob,Sophia | William | Ava | Elizabeth 
-GROUP 3: (HOST) = Henry | Annie | Noah | Amelia | Tyler | Matt,Andie | Lucas 
-GROUP 4: (HOST) = Joseph,Grace | Fidelma | Mia | Mark,Molly | Chloe,Harper | Jackson 
+GROUP 1: (HOST) = Chloe,Harper | Christopher | Daniel | John | Fidelma | Henry | Jennie | Jackson | Amelia | Elizabeth 
+GROUP 2: (HOST) = Matt,Andie | Lucas | Elijah | Michael | Addison | Mia | Mark,Molly | Joseph,Grace | Isabella | Ava 
+GROUP 3: (HOST) = William | Noah | Benjamin,Logan | Victoria | Tyler | Emma | Jacob,Sophia | Mary | Annie 
 
 WEEK 23
-GROUP 1: (HOST) = Victoria | Daniel | Addison | Elijah | Benjamin,Logan | Matt,Andie | Emma 
-GROUP 2: (HOST) = John | Fidelma | Isabella | Ava | Elizabeth | Noah | Mia | Henry 
-GROUP 3: (HOST) = Jennie | Christopher | Lucas | Jackson | Amelia | Tyler | Mary | Chloe,Harper 
-GROUP 4: (HOST) = Annie | Michael | Jacob,Sophia | William | Mark,Molly | Joseph,Grace 
+GROUP 1: (HOST) = Christopher | Mary | Henry | Jennie | Noah | Elijah | Michael | Victoria | Joseph,Grace | Mark,Molly | Ava 
+GROUP 2: (HOST) = Daniel | Jackson | John | Emma | Mia | Amelia | Isabella | Matt,Andie | Fidelma | Chloe,Harper 
+GROUP 3: (HOST) = Lucas | Benjamin,Logan | Tyler | Jacob,Sophia | Annie | Elizabeth | Addison | William 
 
 WEEK 24
-GROUP 1: (HOST) = Daniel | Elijah | Christopher | Matt,Andie | Jacob,Sophia | Elizabeth | John 
-GROUP 2: (HOST) = Addison | Fidelma | Isabella | Jackson | Victoria | Noah | Michael | Amelia 
-GROUP 3: (HOST) = Benjamin,Logan | Ava | Lucas | Mia | Tyler | Mark,Molly | Emma 
-GROUP 4: (HOST) = William | Annie | Mary | Henry | Joseph,Grace | Jennie | Chloe,Harper 
+GROUP 1: (HOST) = Jackson | Jennie | Noah | Benjamin,Logan | Mia | Mark,Molly | Amelia | Jacob,Sophia | William 
+GROUP 2: (HOST) = Joseph,Grace | Mary | Fidelma | Elijah | Michael | Victoria | Tyler | Isabella | Chloe,Harper | Christopher 
+GROUP 3: (HOST) = John | Annie | Elizabeth | Ava | Daniel | Henry | Addison | Emma | Matt,Andie | Lucas 
 
 WEEK 25
-GROUP 1: (HOST) = Elijah | Matt,Andie | Jacob,Sophia | Isabella | Jackson | Mary | Jennie 
-GROUP 2: (HOST) = Christopher | Ava | Elizabeth | Daniel | Lucas | Michael | Tyler | Benjamin,Logan | William 
-GROUP 3: (HOST) = Fidelma | Annie | Noah | Amelia | Emma | Chloe,Harper | Addison 
-GROUP 4: (HOST) = Victoria | Henry | Joseph,Grace | Mia | Mark,Molly | John 
+GROUP 1: (HOST) = Mary | Benjamin,Logan | Addison | Mia | John | Jacob,Sophia | Noah | Isabella | Christopher | Daniel 
+GROUP 2: (HOST) = Fidelma | Mark,Molly | Matt,Andie | Lucas | Annie | Elizabeth | Elijah | Chloe,Harper | Ava 
+GROUP 3: (HOST) = Henry | Michael | Victoria | Emma | Amelia | Joseph,Grace | Jennie | Tyler | William | Jackson 
 
 WEEK 26
-GROUP 1: (HOST) = Matt,Andie | Lucas | Annie | Amelia | Tyler | Mark,Molly | Chloe,Harper | Christopher 
-GROUP 2: (HOST) = Jacob,Sophia | Elizabeth | Mary | Henry | Benjamin,Logan | Fidelma 
-GROUP 3: (HOST) = Isabella | Ava | Noah | Emma | Victoria | Addison | John | Jennie 
-GROUP 4: (HOST) = Daniel | Jackson | Joseph,Grace | Elijah | Mia | Michael | William 
+GROUP 1: (HOST) = Jennie | Michael | Benjamin,Logan | Addison | Tyler | Emma | Amelia | Mia | Lucas | Elizabeth 
+GROUP 2: (HOST) = Noah | Isabella | Mark,Molly | John | Fidelma | William | Christopher | Matt,Andie | Annie | Ava 
+GROUP 3: (HOST) = Elijah | Victoria | Jacob,Sophia | Joseph,Grace | Mary | Jackson | Chloe,Harper | Henry | Daniel 
 
 WEEK 27
-GROUP 1: (HOST) = Ava | Jackson | Annie | Mia | Mark,Molly | Victoria | John | Christopher 
-GROUP 2: (HOST) = Elizabeth | Noah | Henry | Addison | Matt,Andie | Jacob,Sophia | Jennie 
-GROUP 3: (HOST) = Lucas | Elijah | Michael | Tyler | Emma | Benjamin,Logan | William 
-GROUP 4: (HOST) = Amelia | Mary | Fidelma | Daniel | Chloe,Harper | Joseph,Grace | Isabella 
+GROUP 1: (HOST) = Michael | Tyler | Emma | Isabella | Mark,Molly | Matt,Andie | Victoria | Annie | Noah | Jennie 
+GROUP 2: (HOST) = Benjamin,Logan | Mia | Henry | William | Joseph,Grace | Mary | John | Fidelma | Elijah | Daniel 
+GROUP 3: (HOST) = Addison | Amelia | Jacob,Sophia | Chloe,Harper | Elizabeth | Ava | Lucas | Christopher | Jackson 
 
 WEEK 28
-GROUP 1: (HOST) = Jackson | Mia | Tyler | Mark,Molly | Daniel | Henry | Addison | Ava 
-GROUP 2: (HOST) = Annie | Victoria | Amelia | Elizabeth | Isabella | Lucas | Christopher | Jennie 
-GROUP 3: (HOST) = Noah | Michael | Mary | Chloe,Harper | John | Fidelma | Matt,Andie 
-GROUP 4: (HOST) = Elijah | Emma | Benjamin,Logan | Joseph,Grace | William | Jacob,Sophia 
+GROUP 1: (HOST) = Victoria | Mia | Jacob,Sophia | Lucas | William | Benjamin,Logan | Isabella | Mary | Ava | Jennie 
+GROUP 2: (HOST) = Tyler | John | Chloe,Harper | Elizabeth | Joseph,Grace | Christopher | Matt,Andie | Noah | Michael 
+GROUP 3: (HOST) = Emma | Mark,Molly | Annie | Fidelma | Addison | Daniel | Amelia | Henry | Elijah | Jackson 
 
 WEEK 29
-GROUP 1: (HOST) = Mia | Henry | Benjamin,Logan | John | Jennie | Matt,Andie | William | Annie 
-GROUP 2: (HOST) = Michael | Tyler | Mark,Molly | Emma | Victoria | Amelia | Elizabeth 
-GROUP 3: (HOST) = Daniel | Lucas | Noah | Ava | Joseph,Grace | Jacob,Sophia | Isabella 
-GROUP 4: (HOST) = Mary | Chloe,Harper | Addison | Elijah | Jackson | Fidelma | Christopher 
+GROUP 1: (HOST) = Mia | Amelia | Matt,Andie | Chloe,Harper | Fidelma | Henry | Benjamin,Logan | Christopher | Ava | Daniel 
+GROUP 2: (HOST) = Isabella | Jacob,Sophia | Joseph,Grace | Tyler | Emma | Elijah | Elizabeth | Mary | Jackson 
+GROUP 3: (HOST) = Mark,Molly | Annie | William | Michael | Victoria | John | Lucas | Addison | Noah | Jennie 
 
 WEEK 30
-GROUP 1: (HOST) = Tyler | Benjamin,Logan | Joseph,Grace | Jennie | Elijah | Michael | Noah 
-GROUP 2: (HOST) = Mark,Molly | Emma | Amelia | Addison | John | Daniel | Lucas | Ava 
-GROUP 3: (HOST) = Victoria | Chloe,Harper | Jacob,Sophia | Elizabeth | Jackson | Mary | Mia 
-GROUP 4: (HOST) = Henry | William | Christopher | Fidelma | Matt,Andie | Isabella | Annie 
+GROUP 1: (HOST) = Amelia | Annie | Benjamin,Logan | Elizabeth | Mary | Tyler | Elijah | Chloe,Harper | Addison | Michael 
+GROUP 2: (HOST) = John | Fidelma | Joseph,Grace | Noah | Mia | Jackson | Victoria | Lucas | Emma | Mark,Molly 
+GROUP 3: (HOST) = Matt,Andie | Henry | Christopher | Jennie | Daniel | Jacob,Sophia | William | Ava | Isabella 
 
 WEEK 31
-GROUP 1: (HOST) = Emma | Joseph,Grace | Fidelma | Matt,Andie | Elizabeth | Tyler | Mark,Molly 
-GROUP 2: (HOST) = Benjamin,Logan | Henry | Jacob,Sophia | Michael | Victoria | Isabella | Noah 
-GROUP 3: (HOST) = Amelia | Jackson | Lucas | Annie | Ava | Mia | Addison | Christopher 
-GROUP 4: (HOST) = Chloe,Harper | William | Elijah | John | Jennie | Daniel | Mary 
+GROUP 1: (HOST) = Jacob,Sophia | Annie | Henry | William | Christopher | Jackson | Matt,Andie | Elizabeth | Tyler | Amelia 
+GROUP 2: (HOST) = Chloe,Harper | Noah | Elijah | Mia | Ava | Michael | Isabella | Joseph,Grace | Mark,Molly | John 
+GROUP 3: (HOST) = Lucas | Mary | Emma | Daniel | Victoria | Fidelma | Benjamin,Logan | Addison | Jennie 
 
 WEEK 32
-GROUP 1: (HOST) = Joseph,Grace | Henry | Elijah | Daniel | Annie | Noah | Victoria | Mia 
-GROUP 2: (HOST) = Addison | Matt,Andie | Jacob,Sophia | Chloe,Harper | Emma | Amelia 
-GROUP 3: (HOST) = John | Michael | Mary | Mark,Molly | Jennie | Jackson | Ava 
-GROUP 4: (HOST) = Fidelma | Elizabeth | Isabella | Christopher | William | Tyler | Lucas | Benjamin,Logan 
+GROUP 1: (HOST) = Annie | William | Elizabeth | Addison | Tyler | Amelia | Isabella | Noah | Ava | Victoria | Jacob,Sophia 
+GROUP 2: (HOST) = Fidelma | Joseph,Grace | Christopher | Jackson | Daniel | John | Emma | Michael | Matt,Andie | Chloe,Harper 
+GROUP 3: (HOST) = Henry | Benjamin,Logan | Mary | Mark,Molly | Elijah | Mia | Jennie | Lucas 
 
 WEEK 33
-GROUP 1: (HOST) = Henry | Jennie | Daniel | Victoria | John | Addison | Elizabeth | Noah | Joseph,Grace 
-GROUP 2: (HOST) = Matt,Andie | Mary | Fidelma | Jackson | Michael | Christopher | Emma 
-GROUP 3: (HOST) = Jacob,Sophia | William | Chloe,Harper | Annie | Amelia | Ava 
-GROUP 4: (HOST) = Elijah | Tyler | Mia | Isabella | Lucas | Mark,Molly | Benjamin,Logan 
+GROUP 1: (HOST) = William | Addison | Mark,Molly | Jennie | Henry | John | Fidelma | Noah | Michael | Lucas 
+GROUP 2: (HOST) = Benjamin,Logan | Ava | Jackson | Matt,Andie | Isabella | Joseph,Grace | Elijah | Daniel | Jacob,Sophia 
+GROUP 3: (HOST) = Elizabeth | Emma | Amelia | Chloe,Harper | Christopher | Mary | Tyler | Mia | Victoria | Annie 
 
 WEEK 34
-GROUP 1: (HOST) = Jennie | Elizabeth | Isabella | Victoria | Fidelma | Mia | Michael | Elijah 
-GROUP 2: (HOST) = William | Jackson | Christopher | Matt,Andie | Noah | Jacob,Sophia | Ava 
-GROUP 3: (HOST) = Daniel | Tyler | Emma | Amelia | Henry | John | Annie | Addison 
-GROUP 4: (HOST) = Chloe,Harper | Lucas | Benjamin,Logan | Mary | Mark,Molly | Joseph,Grace 
+GROUP 1: (HOST) = Joseph,Grace | Noah | Jackson | Matt,Andie | Lucas | Benjamin,Logan | Ava | Elizabeth | Jacob,Sophia 
+GROUP 2: (HOST) = Addison | Michael | Jennie | Daniel | Henry | Isabella | Mary | Mia | Mark,Molly | John | Annie 
+GROUP 3: (HOST) = Christopher | Tyler | Emma | Amelia | Chloe,Harper | William | Elijah | Victoria | Fidelma 
 
 WEEK 35
-GROUP 1: (HOST) = Elizabeth | Isabella | Christopher | Annie | Mark,Molly | Mia | Joseph,Grace | Jennie 
-GROUP 2: (HOST) = Jackson | Lucas | Chloe,Harper | William | Victoria | Emma | Jacob,Sophia 
-GROUP 3: (HOST) = Tyler | Mary | John | Elijah | Benjamin,Logan | Fidelma | Daniel 
-GROUP 4: (HOST) = Michael | Noah | Matt,Andie | Ava | Addison | Amelia | Henry 
+GROUP 1: (HOST) = Mary | Ava | Elizabeth | Lucas | Chloe,Harper | Joseph,Grace | Henry | John | Christopher 
+GROUP 2: (HOST) = Tyler | Daniel | Benjamin,Logan | Elijah | Jackson | Jennie | Victoria | Matt,Andie | Fidelma | Annie 
+GROUP 3: (HOST) = Noah | Emma | Michael | Amelia | Addison | Mia | Mark,Molly | Isabella | Jacob,Sophia | William 
 
 WEEK 36
-GROUP 1: (HOST) = Isabella | Christopher | Mark,Molly | Benjamin,Logan | Jacob,Sophia | Amelia | William 
-GROUP 2: (HOST) = Lucas | Ava | Jennie | Elizabeth | Mary | Annie | Elijah | Jackson 
-GROUP 3: (HOST) = Victoria | Noah | Michael | Tyler | Emma | Fidelma | Mia | Daniel 
-GROUP 4: (HOST) = John | Matt,Andie | Chloe,Harper | Addison | Joseph,Grace | Henry 
+GROUP 1: (HOST) = Emma | Tyler | Elizabeth | Lucas | Benjamin,Logan | Christopher | Ava | Isabella | Mary | Joseph,Grace 
+GROUP 2: (HOST) = Elijah | Mark,Molly | John | Fidelma | Noah | Michael | Jennie | Jacob,Sophia | Annie 
+GROUP 3: (HOST) = Mia | Victoria | Addison | Jackson | Amelia | Daniel | Henry | Matt,Andie | Chloe,Harper | William 
 
 WEEK 37
-GROUP 1: (HOST) = Christopher | Mary | Mark,Molly | Emma | Isabella | Noah | Victoria | William 
-GROUP 2: (HOST) = Tyler | Mia | Lucas | Elijah | Chloe,Harper | Amelia | Jacob,Sophia | Elizabeth 
-GROUP 3: (HOST) = Annie | Ava | Jackson | Michael | Fidelma | Joseph,Grace | Daniel 
-GROUP 4: (HOST) = Matt,Andie | Addison | Jennie | John | Benjamin,Logan | Henry 
+GROUP 1: (HOST) = Ava | Jackson | Lucas | John | Noah | Annie | Jennie | Victoria | Elizabeth | Jacob,Sophia | William 
+GROUP 2: (HOST) = Michael | Henry | Elijah | Chloe,Harper | Christopher | Amelia | Tyler | Benjamin,Logan | Addison | Joseph,Grace 
+GROUP 3: (HOST) = Mark,Molly | Isabella | Mia | Emma | Daniel | Matt,Andie | Fidelma | Mary 
 
 WEEK 38
-GROUP 1: (HOST) = Mary | Benjamin,Logan | Jennie | John | Ava | Mia | Lucas | Elizabeth 
-GROUP 2: (HOST) = Mark,Molly | Elijah | Michael | Joseph,Grace | Chloe,Harper | Matt,Andie 
-GROUP 3: (HOST) = Noah | Annie | Daniel | Henry | Addison | Amelia | Victoria | William 
-GROUP 4: (HOST) = Emma | Christopher | Fidelma | Jackson | Tyler | Jacob,Sophia | Isabella 
+GROUP 1: (HOST) = Jackson | Daniel | Matt,Andie | Elizabeth | Lucas | Ava | Tyler | Elijah | Addison | Emma 
+GROUP 2: (HOST) = Jennie | Mark,Molly | Christopher | William | Henry | Benjamin,Logan | Michael | Mary | Joseph,Grace 
+GROUP 3: (HOST) = Amelia | Victoria | Mia | Isabella | John | Fidelma | Noah | Jacob,Sophia | Chloe,Harper | Annie 
 
 WEEK 39
-GROUP 1: (HOST) = Elijah | Chloe,Harper | Amelia | Henry | Addison | Annie | Matt,Andie | John 
-GROUP 2: (HOST) = Ava | Fidelma | Jennie | William | Emma | Jacob,Sophia | Noah 
-GROUP 3: (HOST) = Michael | Mia | Jackson | Victoria | Daniel | Mary | Mark,Molly | Isabella 
-GROUP 4: (HOST) = Benjamin,Logan | Joseph,Grace | Christopher | Tyler | Lucas | Elizabeth 
+GROUP 1: (HOST) = Daniel | Henry | Jacob,Sophia | Annie | William | Matt,Andie | Fidelma | Elijah | Christopher 
+GROUP 2: (HOST) = Victoria | Elizabeth | Addison | Joseph,Grace | Isabella | Benjamin,Logan | Jennie | Michael | Emma 
+GROUP 3: (HOST) = Tyler | Lucas | Mary | Ava | Mia | Amelia | John | Mark,Molly | Noah | Chloe,Harper | Jackson 
 
 WEEK 40
-GROUP 1: (HOST) = Chloe,Harper | Fidelma | Mia | Elizabeth | Jackson | Benjamin,Logan | Isabella | Christopher 
-GROUP 2: (HOST) = Addison | Joseph,Grace | Mary | Henry | Victoria | Daniel | Elijah 
-GROUP 3: (HOST) = Emma | Annie | Noah | Tyler | Lucas | Jennie | William | Ava 
-GROUP 4: (HOST) = Amelia | Jacob,Sophia | Matt,Andie | Michael | Mark,Molly | John 
+GROUP 1: (HOST) = Henry | John | Fidelma | Annie | Mia | Amelia | Noah | Michael | Addison | Tyler | Ava | Joseph,Grace 
+GROUP 2: (HOST) = Matt,Andie | Elizabeth | Lucas | Mark,Molly | Jacob,Sophia | Christopher | Emma | Daniel 
+GROUP 3: (HOST) = Isabella | Chloe,Harper | Victoria | Benjamin,Logan | Jennie | Elijah | Mary | William | Jackson 
 
 WEEK 41
-GROUP 1: (HOST) = Fidelma | Michael | Daniel | Victoria | Lucas | Henry | Noah | William | John 
-GROUP 2: (HOST) = Mia | Isabella | Elijah | Tyler | Mary | Jennie | Emma | Amelia | Christopher 
-GROUP 3: (HOST) = Jackson | Elizabeth | Annie | Mark,Molly | Matt,Andie | Chloe,Harper 
-GROUP 4: (HOST) = Joseph,Grace | Benjamin,Logan | Ava | Jacob,Sophia | Addison 
+GROUP 1: (HOST) = Mia | Noah | Elijah | Emma | Benjamin,Logan | Mark,Molly | Victoria | Tyler | Daniel 
+GROUP 2: (HOST) = Elizabeth | Jennie | Isabella | Henry | Amelia | Fidelma | Michael | Addison | Christopher | Annie | Jackson 
+GROUP 3: (HOST) = Lucas | Matt,Andie | Ava | John | Jacob,Sophia | Chloe,Harper | Mary | William | Joseph,Grace 
 
 WEEK 42
-GROUP 1: (HOST) = Victoria | Lucas | Ava | Michael | Mary | Matt,Andie | Chloe,Harper | Christopher 
-GROUP 2: (HOST) = Tyler | Isabella | Benjamin,Logan | Mark,Molly | Noah | Joseph,Grace 
-GROUP 3: (HOST) = Annie | Mia | Daniel | Fidelma | Emma | Elijah | Amelia | Addison 
-GROUP 4: (HOST) = Jacob,Sophia | Jennie | Jackson | Henry | William | Elizabeth | John 
+GROUP 1: (HOST) = Matt,Andie | Fidelma | Annie | John | Isabella | Chloe,Harper | Mary | Emma | Elizabeth | Joseph,Grace 
+GROUP 2: (HOST) = Benjamin,Logan | Mark,Molly | Jennie | Noah | Elijah | Lucas | Tyler | William | Daniel 
+GROUP 3: (HOST) = Amelia | Ava | Jacob,Sophia | Michael | Addison | Victoria | Christopher | Henry | Mia | Jackson 
 
 WEEK 43
-GROUP 1: (HOST) = Michael | Chloe,Harper | Jackson | Mark,Molly | Noah | Elizabeth | John 
-GROUP 2: (HOST) = Benjamin,Logan | Fidelma | Mary | Henry | Emma | Elijah | Amelia | Christopher 
-GROUP 3: (HOST) = Daniel | Victoria | Tyler | Jennie | William | Mia | Ava | Joseph,Grace 
-GROUP 4: (HOST) = Lucas | Jacob,Sophia | Annie | Matt,Andie | Isabella | Addison 
+GROUP 1: (HOST) = John | Elijah | Tyler | Jennie | Isabella | Lucas | Mary | Matt,Andie | William | Benjamin,Logan | Jackson 
+GROUP 2: (HOST) = Mark,Molly | Chloe,Harper | Noah | Michael | Victoria | Annie | Mia | Elizabeth | Joseph,Grace 
+GROUP 3: (HOST) = Fidelma | Addison | Jacob,Sophia | Amelia | Christopher | Henry | Emma | Ava | Daniel 
 
 WEEK 44
-GROUP 1: (HOST) = Jackson | Isabella | Fidelma | Noah | Elijah | Benjamin,Logan | Joseph,Grace | Christopher 
-GROUP 2: (HOST) = Mary | Mark,Molly | Henry | Emma | Mia | Elizabeth | Addison 
-GROUP 3: (HOST) = Tyler | Jennie | Jacob,Sophia | Ava | Amelia | Chloe,Harper | Victoria 
-GROUP 4: (HOST) = Annie | Matt,Andie | William | Michael | Daniel | Lucas | John 
+GROUP 1: (HOST) = Jennie | Jackson | Elijah | Chloe,Harper | Victoria | Annie | Henry | William | Benjamin,Logan | Joseph,Grace 
+GROUP 2: (HOST) = Noah | Mary | Michael | Lucas | Christopher | Mark,Molly | Matt,Andie | Mia | Elizabeth | John 
+GROUP 3: (HOST) = Jacob,Sophia | Isabella | Amelia | Addison | Tyler | Fidelma | Emma | Ava | Daniel 
+
+WEEK 45
+GROUP 1: (HOST) = Isabella | Matt,Andie | Amelia | Addison | Mary | Fidelma | Noah | William | Elizabeth | Joseph,Grace 
+GROUP 2: (HOST) = Elijah | Tyler | Chloe,Harper | Victoria | Annie | Henry | Emma | Mia | Daniel | John 
+GROUP 3: (HOST) = Michael | Ava | Lucas | Christopher | Mark,Molly | Jennie | Jacob,Sophia | Benjamin,Logan | Jackson 
+
+WEEK 46
+GROUP 1: (HOST) = Amelia | Mark,Molly | Addison | Mary | Fidelma | Matt,Andie | Mia | Benjamin,Logan | Jackson 
+GROUP 2: (HOST) = Chloe,Harper | Jacob,Sophia | Victoria | Tyler | Henry | Emma | Ava | Elizabeth | Joseph,Grace 
+GROUP 3: (HOST) = Lucas | Noah | Christopher | Annie | Jennie | William | Isabella | Elijah | Michael | Daniel | John 
+
+WEEK 47
+GROUP 1: (HOST) = Addison | Joseph,Grace | Mary | Mark,Molly | Jennie | Emma | Ava | Elizabeth | Lucas 
+GROUP 2: (HOST) = Victoria | Daniel | Tyler | Fidelma | Matt,Andie | Jacob,Sophia | Michael | Amelia | Jackson 
+GROUP 3: (HOST) = Christopher | Isabella | Annie | Henry | Noah | William | Elijah | Mia | Benjamin,Logan | Chloe,Harper | John 
 
