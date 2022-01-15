@@ -1,0 +1,162 @@
+Smallgroups by Week
+WEEK 1
+GROUP 1: (HOST) = Mary | Tyler | Annie | Mark,Molly | Ava 
+GROUP 2: (HOST) = Fidelma | Henry | Jennie | Matt,Andie 
+GROUP 3: (HOST) = Noah | Emma | Jacob,Sophia 
+GROUP 4: (HOST) = William | Isabella | Elijah | Mia 
+
+WEEK 2
+GROUP 1: (HOST) = Tyler | Annie | Mark,Molly | Fidelma 
+GROUP 2: (HOST) = Henry | Jennie | Matt,Andie | William 
+GROUP 3: (HOST) = Emma | Jacob,Sophia | Isabella | Mary 
+GROUP 4: (HOST) = Elijah | Mia | Ava | Noah 
+
+WEEK 3
+GROUP 1: (HOST) = Annie | Mark,Molly | Jennie | Fidelma 
+GROUP 2: (HOST) = Matt,Andie | Jacob,Sophia | Elijah 
+GROUP 3: (HOST) = Isabella | Mia | Ava | Noah | Mary 
+GROUP 4: (HOST) = Tyler | Henry | Emma | William 
+
+WEEK 4
+GROUP 1: (HOST) = Mark,Molly | Jennie | Jacob,Sophia | Mary 
+GROUP 2: (HOST) = Mia | Ava | Matt,Andie | Isabella 
+GROUP 3: (HOST) = Noah | Annie | Fidelma | Henry 
+GROUP 4: (HOST) = Emma | William | Elijah | Tyler 
+
+WEEK 5
+GROUP 1: (HOST) = Jennie | Jacob,Sophia | Ava | Tyler 
+GROUP 2: (HOST) = Matt,Andie | Annie | Mark,Molly | Emma 
+GROUP 3: (HOST) = Fidelma | William | Elijah | Mia 
+GROUP 4: (HOST) = Henry | Mary | Isabella | Noah 
+
+WEEK 6
+GROUP 1: (HOST) = Jacob,Sophia | Ava | Annie | Fidelma 
+GROUP 2: (HOST) = Mark,Molly | William | Elijah | Henry 
+GROUP 3: (HOST) = Jennie | Mia | Mary | Isabella | Emma 
+GROUP 4: (HOST) = Matt,Andie | Noah | Tyler 
+
+WEEK 7
+GROUP 1: (HOST) = Ava | Annie | Jacob,Sophia | Jennie 
+GROUP 2: (HOST) = William | Mary | Noah | Tyler | Matt,Andie 
+GROUP 3: (HOST) = Elijah | Isabella | Mark,Molly 
+GROUP 4: (HOST) = Mia | Fidelma | Henry | Emma 
+
+WEEK 8
+GROUP 1: (HOST) = Annie | Jacob,Sophia | Ava | Henry 
+GROUP 2: (HOST) = Mary | Isabella | Noah | Elijah | William 
+GROUP 3: (HOST) = Tyler | Mia | Jennie | Matt,Andie 
+GROUP 4: (HOST) = Mark,Molly | Fidelma | Emma 
+
+WEEK 9
+GROUP 1: (HOST) = Jacob,Sophia | Isabella | Noah | Mary 
+GROUP 2: (HOST) = Ava | Elijah | Fidelma | Henry | Tyler 
+GROUP 3: (HOST) = Annie | Emma | Mia | Matt,Andie 
+GROUP 4: (HOST) = Jennie | William | Mark,Molly 
+
+WEEK 10
+GROUP 1: (HOST) = Isabella | Elijah | Fidelma | Henry | Mary 
+GROUP 2: (HOST) = Noah | Mia | Matt,Andie | Annie 
+GROUP 3: (HOST) = Emma | Ava | Mark,Molly | Jennie 
+GROUP 4: (HOST) = Jacob,Sophia | William | Tyler 
+
+WEEK 11
+GROUP 1: (HOST) = Elijah | Fidelma | Henry | Matt,Andie | Jennie 
+GROUP 2: (HOST) = Mia | Noah | William | Mary 
+GROUP 3: (HOST) = Isabella | Mark,Molly | Jacob,Sophia 
+GROUP 4: (HOST) = Ava | Emma | Tyler | Annie 
+
+WEEK 12
+GROUP 1: (HOST) = Fidelma | Noah | Mary | Mark,Molly | Emma 
+GROUP 2: (HOST) = Henry | Jacob,Sophia | Ava | Mia 
+GROUP 3: (HOST) = Matt,Andie | William | Jennie 
+GROUP 4: (HOST) = Tyler | Isabella | Elijah | Annie 
+
+WEEK 13
+GROUP 1: (HOST) = Noah | William | Mary | Mark,Molly | Mia 
+GROUP 2: (HOST) = Jacob,Sophia | Henry | Jennie | Fidelma 
+GROUP 3: (HOST) = Ava | Matt,Andie | Isabella 
+GROUP 4: (HOST) = Annie | Elijah | Tyler | Emma 
+
+WEEK 14
+GROUP 1: (HOST) = William | Mark,Molly | Henry | Jacob,Sophia 
+GROUP 2: (HOST) = Mary | Jennie | Matt,Andie | Ava 
+GROUP 3: (HOST) = Emma | Mia | Fidelma | Noah 
+GROUP 4: (HOST) = Isabella | Tyler | Annie | Elijah 
+
+WEEK 15
+GROUP 1: (HOST) = Mark,Molly | Matt,Andie | Ava 
+GROUP 2: (HOST) = Henry | Elijah | Fidelma | Tyler | Isabella 
+GROUP 3: (HOST) = Jennie | Noah | Annie | Mary | Emma 
+GROUP 4: (HOST) = Mia | Jacob,Sophia | William 
+
+WEEK 16
+GROUP 1: (HOST) = Matt,Andie | Mary | Fidelma | Isabella 
+GROUP 2: (HOST) = Elijah | Jacob,Sophia | William | Henry 
+GROUP 3: (HOST) = Mark,Molly | Noah | Mia | Emma 
+GROUP 4: (HOST) = Ava | Tyler | Annie | Jennie 
+
+WEEK 17
+GROUP 1: (HOST) = Mary | Fidelma | Jacob,Sophia | Henry 
+GROUP 2: (HOST) = Noah | Ava | Tyler | Jennie | Matt,Andie 
+GROUP 3: (HOST) = William | Annie | Emma | Isabella 
+GROUP 4: (HOST) = Mia | Elijah | Mark,Molly 
+
+WEEK 18
+GROUP 1: (HOST) = Fidelma | Jacob,Sophia | Ava | Mia 
+GROUP 2: (HOST) = Tyler | Mary | Noah | Mark,Molly 
+GROUP 3: (HOST) = Annie | Isabella | William | Emma 
+GROUP 4: (HOST) = Jennie | Elijah | Henry | Matt,Andie 
+
+WEEK 19
+GROUP 1: (HOST) = Jacob,Sophia | Elijah | Mark,Molly | Noah 
+GROUP 2: (HOST) = Ava | William | Mia | Mary | Jennie 
+GROUP 3: (HOST) = Isabella | Matt,Andie | Emma 
+GROUP 4: (HOST) = Fidelma | Tyler | Annie | Henry 
+
+WEEK 20
+GROUP 1: (HOST) = Elijah | Emma | Mary | Tyler | Noah 
+GROUP 2: (HOST) = Mark,Molly | Annie | Isabella | Fidelma 
+GROUP 3: (HOST) = Henry | Jacob,Sophia | William | Jennie 
+GROUP 4: (HOST) = Matt,Andie | Mia | Ava 
+
+WEEK 21
+GROUP 1: (HOST) = Henry | Emma | Annie | Mark,Molly | Elijah 
+GROUP 2: (HOST) = Jacob,Sophia | Mia | Matt,Andie 
+GROUP 3: (HOST) = William | Ava | Fidelma | Jennie 
+GROUP 4: (HOST) = Mary | Tyler | Noah | Isabella 
+
+WEEK 22
+GROUP 1: (HOST) = Emma | Annie | Matt,Andie | William 
+GROUP 2: (HOST) = Mia | Tyler | Jennie | Mark,Molly 
+GROUP 3: (HOST) = Mary | Ava | Fidelma | Henry 
+GROUP 4: (HOST) = Noah | Isabella | Elijah | Jacob,Sophia 
+
+WEEK 23
+GROUP 1: (HOST) = Mary | Emma | Mia | Mark,Molly | Henry 
+GROUP 2: (HOST) = Tyler | Ava | Jacob,Sophia 
+GROUP 3: (HOST) = Annie | Noah | Fidelma | Elijah 
+GROUP 4: (HOST) = Isabella | Jennie | William | Matt,Andie 
+
+WEEK 24
+GROUP 1: (HOST) = Ava | Mark,Molly | Noah | Tyler 
+GROUP 2: (HOST) = Annie | Mary | Emma | Mia | Henry 
+GROUP 3: (HOST) = Fidelma | Isabella | Jacob,Sophia | William 
+GROUP 4: (HOST) = Jennie | Matt,Andie | Elijah 
+
+WEEK 25
+GROUP 1: (HOST) = Mark,Molly | Tyler | Elijah | William 
+GROUP 2: (HOST) = Jennie | Fidelma | Mia | Noah | Isabella 
+GROUP 3: (HOST) = Matt,Andie | Henry | Mary | Ava 
+GROUP 4: (HOST) = Emma | Jacob,Sophia | Annie 
+
+WEEK 26
+GROUP 1: (HOST) = Emma | Henry | Tyler | Matt,Andie | Ava 
+GROUP 2: (HOST) = Jacob,Sophia | Mary | Mark,Molly 
+GROUP 3: (HOST) = Elijah | Annie | Fidelma | Noah 
+GROUP 4: (HOST) = Mia | Jennie | William | Isabella 
+
+WEEK 27
+GROUP 1: (HOST) = Jacob,Sophia | Emma | Fidelma | Isabella 
+GROUP 2: (HOST) = Mia | Annie | Henry | Noah | Elijah 
+GROUP 3: (HOST) = Mary | Mark,Molly | Jennie | Ava 
+GROUP 4: (HOST) = Tyler | Matt,Andie | William 
